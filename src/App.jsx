@@ -2,7 +2,7 @@ const App = () => {
   
   return (
     
-     <H1>Hola Mundo!</H1>
+     <h1>Hola Mundo!!!Hola ciro como amanecio hoy papa!</h1>
   )
 
   }
